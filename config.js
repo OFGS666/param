@@ -1,6 +1,6 @@
 module.exports = {
         px: 'p!',
-        token: 'ODEzNjYzMzQxMzgxMTU2ODY1.YDSlCQ.Ze4_gAv3iP8iKAvefvpu6NMSUno', //DİSCORD BOTUNUZUN TOKENİNİ YAZIN
+        token: '', //DİSCORD BOTUNUZUN TOKENİNİ YAZIN
         playing: 'p!yardım',
                    
 
